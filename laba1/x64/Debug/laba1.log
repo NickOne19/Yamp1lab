@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\OWNER\source\repos\LMP\laba1\laba1\My_List.h(56,1): warning C4267: return: преобразование из "size_t" в "TInfo"; возможна потеря данных
+C:\Users\OWNER\source\repos\LMP\laba1\laba1\Source.cpp(62,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  laba1.vcxproj -> C:\Users\OWNER\source\repos\LMP\laba1\x64\Debug\laba1.exe
